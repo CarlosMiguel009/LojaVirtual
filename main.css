@@ -1,0 +1,14 @@
+h1 {
+    background-color: blueviolet;
+}
+p {
+    font-size: x-large;
+}
+.centralizar-texto {
+    text-align: center;
+}
+.imagem-roupa{
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+}
